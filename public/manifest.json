@@ -1,0 +1,8 @@
+{
+  "name": "DartDeck",
+  "short_name": "DartDeck",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#FF6B00"
+}
