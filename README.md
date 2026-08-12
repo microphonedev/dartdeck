@@ -4,6 +4,9 @@ Local LAN darts scoring system designed for smart TVs, tablets, and phones. Perf
 
 ---
 
+<img width="1920" height="990" alt="Posnetek zaslona 2026-08-12 221127" src="https://github.com/user-attachments/assets/7e15443d-15ec-4bbb-8050-353df30fcec7" />
+
+
 ## How It Works
 
 DartDeck uses a **Dual-Screen Architecture** over your local network:
@@ -11,6 +14,7 @@ DartDeck uses a **Dual-Screen Architecture** over your local network:
 2. **The Mobile Controllers (Smartphones/Tablets)**: Handheld keypads used by players to log throws. No app installation required—simply connect to the local IP address on any web browser.
 
 ---
+
 
 ## Features
 
